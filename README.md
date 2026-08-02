@@ -143,11 +143,12 @@ link-tools/
 
 ---
 
-## Author
+## 🧑‍💻 Author
 
-**Hamza**
-
-Built and maintained by Hamza. Issues, feature ideas, and pull requests are welcome — open an issue on this repository.
+**Link Tools** was created by **Abdullah Zubair**  
+- GitHub: [@AvatarParzival](https://github.com/AvatarParzival)
+- LinkedIn: [Abdullah Zubair](https://www.linkedin.com/in/abdullahzubairr)
+- Email: [abdullah69zubair@gmail.com](abdullah69zubair@gmail.com)
 
 ---
 
