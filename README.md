@@ -80,7 +80,7 @@ Link Tools is installed as an unpacked extension. It takes about a minute.
 
 1. **Download the code** — click `Code → Download ZIP` on this repository, or clone it:
    ```bash
-   git clone https://github.com/your-username/link-tools.git
+   git clone https://github.com/AvatarParzival/link-tools-extension.git
    ```
 2. **Unzip it** (if you downloaded the ZIP) to a permanent folder — deleting the folder later removes the extension.
 3. Open Chrome and go to `chrome://extensions`.
