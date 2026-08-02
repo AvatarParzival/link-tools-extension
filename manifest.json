@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Link Tools",
-  "version": "1.0.0 AvatarParzival",
-  "description": "Open pasted links and copy open browser links.",
+  "version": "1.0.0",
+  "description": "AvatarParzival - Open pasted links and copy open browser links.",
   "permissions": [
     "tabs",
     "clipboardWrite"
